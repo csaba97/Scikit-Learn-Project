@@ -3,17 +3,17 @@
 # Installing the tool
 
 1. Make sure Python is installed on the computer(check it with python –version). If it is
-not, install it from the official Python website([8]).
+not, install it from the official Python website
 2. Make sure pip is installed on the computer. Pip comes pre-installed with new Python
 releases.
-3. To install the tool as a standalone version, just type pip install scikit-learn in the
+3. To install the tool as a standalone version, just type `pip install scikit-learn` in the
 terminal
 4. These tools: numpy, pandas, matplotlib, seaborn need to be installed to process
 data, to plot functions and to use mathematical functions so for every tool just type
-pip install {name of the tool}
+`pip install {name of the tool}`
 5. Also it is highly recommended to install Jupyter Notebook which is a code editor in
 which separate pieces of code can be executed, commented, plots can be made etc. To
-install it, type: pip install jupyter in the terminal
+install it, type: `pip install jupyter` in the terminal
 
 # Data
 The data from the 2012’s Baccalaureate is used. This data is taken from an Open sourced
