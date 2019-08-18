@@ -69,8 +69,7 @@ the maximum grade of 4.0.
  After running a Random Forest Regressor we got an accuracy of 70%. Cross validation
 showed a score of 67% which is still a high value. Several other algorithms were tried. Only
 one was with success(GradientBoostingRegressor) with an accuracy score of 72%.
-The next step will be to remove outliers because probably they are causing overfitting in our
-model.
+
 
  
 
