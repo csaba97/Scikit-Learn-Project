@@ -1,4 +1,4 @@
-# Used Sklearn to predict the grades of students in Romania at the Baccalaureate knowing their grades from the exam in 8th grade
+# Used Scikit-learn to predict the grades of students in Romania at the Baccalaureate knowing their grades from the exam in 8th grade
 
 # Installing the tool
 
